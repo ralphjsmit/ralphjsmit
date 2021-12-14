@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ralph
+
+I'm an 18yo developer and I'm an enthusiastic Laravel developer.
+
+Usually I spend my time doing freelance work and my university study (Business Economics).
+In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [ralphjsmit.com](https://ralphjsmit.com).
 
 <!--
 **ralphjsmit/ralphjsmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
