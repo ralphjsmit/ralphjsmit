@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ralph
 
-I'm an 18yo student and enthusiastic Laravel developer.
+I'm an 18yo enthusiastic Laravel developer.
 
 Usually I spend my time doing freelance work and my university study (Business Economics).
 In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [ralphjsmit.com](https://ralphjsmit.com). (If you're interested, subscribe to my newsletter to occassionally receive an email with some updates.)
