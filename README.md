@@ -5,7 +5,7 @@ In the meantime I also write about PHP, Laravel, Tailwind & more on my personal 
 
 I love to create Laravel-packages. My most popular package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package and the premium [**Filament Media Library Manager**](https://filamentphp.com/plugins/media-library-pro) plugin.
 
-I'm also discovering open source contributions, so occassionally you may see a PR to Laravel or a package⚡️
+I'm also discovering open source contributions, so occassionally you may see PRs from me to Laravel or a package⚡️
 
 
 
