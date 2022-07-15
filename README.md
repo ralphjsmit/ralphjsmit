@@ -3,9 +3,9 @@
 I'm a 19yo Laravel developer.
 
 Usually I spend my time doing freelance work and my university study (Business Economics).
-In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [ralphjsmit.com](https://ralphjsmit.com). (If you're interested, subscribe to my newsletter to occassionally receive an email with some updates.)
+In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [**ralphjsmit.com**](https://ralphjsmit.com). (If you're interested, subscribe to my newsletter to occassionally receive an email with some updates.)
 
-I love to create Laravel-packages. My most popular package is the [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) package and the premium [Filament Media Library Manager](https://filamentphp.com/plugins/media-library-pro) package.
+I love to create Laravel-packages. My most popular package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package and the premium [**Filament Media Library Manager**](https://filamentphp.com/plugins/media-library-pro) plugin.
 
 I'm also discovering open source contributions, so occassionally you may see a PR to Laravel or a package⚡️
 
