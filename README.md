@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ralph
 
-I'm a Laravel-developer. Usually I spend my time doing freelance work and my university study (Business Economics).
+I'm a Laravel-developer. Usually I spend my time doing freelance work and my university study (MSc Information Management).
 In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [**ralphjsmit.com**](https://ralphjsmit.com). (If you're interested, subscribe to my newsletter to occassionaly receive an email with some updates.)
 
 I love to create Laravel-packages. My most popular open-source package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package, also featured on Laravel News. I'm also a regular contributor to [_Filament PHP_](https://filamentphp.com) and its ecosystem with plugins and PRs. I'm also the author of three premium packages for Filament: [**Filament Media Library**](https://filamentphp.com/plugins/media-library-pro), [**Filament Onboarding**](https://filamentphp.com/plugins/onboarding-manager-pro) and [**Filament Notifications Pro**](https://filamentphp.com/plugins/notifications-pro).
