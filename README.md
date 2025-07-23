@@ -1,12 +1,22 @@
+<p align="left">
+  <br />
+  <a href="https://ralphjsmit.com">
+    <picture>
+      <source srcset="./Signature-White.svg" media="(prefers-color-scheme: dark)">
+      <img width="175" src="./Signature-Black.svg" alt="Signature">
+    </picture>
+  </a>
+</p>
+
 ### Hi there 👋 I'm Ralph
 
-I'm a Laravel-developer. Usually I spend my time doing freelance work and my university study (MSc Information Management).
-In the meantime I also write about PHP, Laravel, Tailwind & more on my personal blog, [**ralphjsmit.com**](https://ralphjsmit.com). (If you're interested, subscribe to my newsletter to occassionaly receive an email with some updates.)
+I'm a freelance Laravel-developer, always working on a wide variety of projects & packages. Over time, I have worked for many clients, each having an own interesting environment and constraints, ranging from small-scale startups to large enterprises.
 
-I love to create Laravel-packages. My most popular open-source package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package, also featured on Laravel News. I'm also a regular contributor to [_Filament PHP_](https://filamentphp.com) and its ecosystem with plugins and PRs. I'm also the author of three premium packages for Filament: [**Filament Media Library**](https://filamentphp.com/plugins/media-library-pro), [**Filament Onboarding**](https://filamentphp.com/plugins/onboarding-manager-pro) and [**Filament Notifications Pro**](https://filamentphp.com/plugins/notifications-pro).
+I love to create Laravel-packages. My most popular open-source package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package, also featured on Laravel News. I'm also a regular contributor to [_Filament PHP_](https://filamentphp.com) and its ecosystem with plugins and PRs. I'm also the author of eight premium packages for Filament: [**Filament Media Library**](https://filamentphp.com/plugins/ralphjsmit-media-library-manager), [**Filament Activitylog Pro**](https://filamentphp.com/plugins/ralphjsmit-activitylog-pro), [**Filament Onboarding**](https://filamentphp.com/plugins/onboarding-manager-pro) and [**Filament Upload Pro**](https://filamentphp.com/plugins/ralphjsmit-upload-pro), among others. You can find the full catalogue of plugins on my website: [**ralphjsmit.com/filament-plugins**](ralphjsmit.com/filament-plugins). Furthermore, I also run a popular newsletter about Filament PHP, called [**Filament Biweekly**](https://ralphjsmit.com/filament-biweekly).
 
-I also enjoy open source contributions, so occassionaly you may see PRs from me to Laravel or a package⚡️
+I enjoy open source contributions, so occassionaly you may see PRs from me to Laravel or a package⚡️
 
+Recently I also graduated with an MSc Information Management, complementing my experience as a software developer.
 
 
 <!--
