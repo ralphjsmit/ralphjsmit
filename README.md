@@ -1,13 +1,3 @@
-<p align="left">
-  <br />
-  <a href="https://ralphjsmit.com">
-    <picture>
-      <source srcset="./Signature-White.svg" media="(prefers-color-scheme: dark)">
-      <img width="175" src="./Signature-Black.svg" alt="Signature">
-    </picture>
-  </a>
-</p>
-
 ### Hi there 👋 I'm Ralph
 
 I'm a freelance Laravel-developer, always working on a wide variety of projects & packages. Over time, I have worked for many clients, each having an own interesting environment and constraints, ranging from small-scale startups to large enterprises.
@@ -18,6 +8,15 @@ I enjoy open source contributions, so occassionaly you may see PRs from me to La
 
 Recently I also graduated with an MSc Information Management, complementing my experience as a software developer.
 
+<p align="left">
+  <br />
+  <a href="https://ralphjsmit.com">
+    <picture>
+      <source srcset="./Signature-White.svg" media="(prefers-color-scheme: dark)">
+      <img width="175" src="./Signature-Black.svg" alt="Signature">
+    </picture>
+  </a>
+</p>
 
 <!--
 **ralphjsmit/ralphjsmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
