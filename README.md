@@ -9,7 +9,6 @@ I enjoy open source contributions, so occassionaly you may see PRs from me to La
 Recently I also graduated with an MSc Information Management, complementing my experience as a software developer.
 
 <p align="left">
-  <br />
   <a href="https://ralphjsmit.com">
     <picture>
       <source srcset="./Signature-White.svg" media="(prefers-color-scheme: dark)">
