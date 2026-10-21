@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ralph
 
-I'm a freelance Laravel-developer, always working on a wide variety of projects & packages. Over time, I have worked for many clients, each having an own interesting environment and constraints, ranging from small-scale startups to large enterprises.
+I'm a freelance design & product engineer, always working on a wide variety of projects & packages. Over time, I have worked for many clients, each having an own interesting environment and constraints, ranging from small-scale startups to large enterprises.
 
 I love to create Laravel-packages. My most popular open-source package is the [**ralphjsmit/laravel-seo**](https://github.com/ralphjsmit/laravel-seo) package, also featured on Laravel News. I'm also a regular contributor to [_Filament PHP_](https://filamentphp.com) and its ecosystem with plugins and PRs. I'm also the author of eight premium packages for Filament: [**Filament Media Library Pro**](https://filamentplugins.com/filament-media-library-pro), [**Filament Activitylog Pro**](https://filamentphp.com/plugins/ralphjsmit-activitylog-pro), [**Filament Onboarding**](https://filamentphp.com/plugins/onboarding-manager-pro) and [**Filament Upload Pro**](https://filamentphp.com/plugins/ralphjsmit-upload-pro), among others. You can find the full catalogue of plugins on my website: [**ralphjsmit.com/filament-plugins**](ralphjsmit.com/filament-plugins). Furthermore, I also run a popular newsletter about Filament PHP, called [**Filament Biweekly**](https://ralphjsmit.com/filament-biweekly).
 
